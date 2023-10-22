@@ -1,1 +1,4 @@
-# Project1
+# Information Dissemination System
+
+<hr>
+Based on SDLC practices.
